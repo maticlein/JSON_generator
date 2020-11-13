@@ -37,7 +37,7 @@ titles = ["inicio",
           "link"]
 
 messages = ["La fecha de inicio de la asignatura " + asignatura + " es el ",
-            "La fecha de termino de la asignatura " + asignatura + "es el ",
+            "La fecha de termino de la asignatura " + asignatura + " es el ",
             "La modalidad de la asignatura " + asignatura + " es ",
             "Nivel de la asignatura " + asignatura + ": ",
             "Cantidad de horas de la asignatura " + asignatura + ": ",
